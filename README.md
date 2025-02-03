@@ -1,0 +1,1 @@
+This project is capping off lessons regarding HTML, CSS, and Flexbox for the Odin Project. 
