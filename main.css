@@ -75,18 +75,16 @@ ul a {
   border-radius: 12px;
 }
 
-.gallery {
-  background-color: #e5e7eb;
-}
-
 h2.gallery {
   font-size: 36px;
-  font-weight: 900;
   color: #1f2937;
 }
 
+.quote {
+  background-color: #e5e7eb;
+}
+
 .text {
-  font-size: 36px;
-  font-style: italic;
+  font-size: 24px;
   color: #1f2937;
 }
