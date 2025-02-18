@@ -75,16 +75,27 @@ ul a {
   border-radius: 12px;
 }
 
+.gallery {
+  display: flex;
+  justify-content: center;
+}
+
 h2.gallery {
   font-size: 36px;
   color: #1f2937;
 }
 
 .quote {
+  display: flex;
   background-color: #e5e7eb;
+  align-content: center;
+  margin: auto;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .text {
   font-size: 24px;
   color: #1f2937;
+  max-width: 35%;
 }
