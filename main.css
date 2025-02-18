@@ -50,6 +50,10 @@ ul a {
 .image_space {
   display: flex;
   background-color: grey;
+  width: 500px;
+  height: 250px;
+  align-items: center;
+  justify-content: center;
 }
 
 .title {
